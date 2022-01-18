@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamzeh Naser
 - 👀 I’m interested in programming, System Design, Web Development, Electronics .
 - 🌱 I’m currently learning Java EE , Spring Framework , coding Challenge
-- 💞️ I’m looking to collaborate on Software Engineering (UML), System Design, Software Development (c/Java), Electronics projects (Arduino ,Raspberry pi)
+- 💞️ I’m looking to collaborate on  Software Development (c/Java), Electronics projects (Arduino ,Raspberry pi)
 - 📫 How to reach me ...
 
 <!---
