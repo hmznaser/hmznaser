@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamzeh Naser
-- 👀 I’m interested in programming, System Design, Web Development, Electronics .
-- 🌱 I’m currently learning Java EE , Spring Framework
+- 👀 I’m interested in programming ,Web Development, coding, System Design, Electronics .
+- 🌱 Solid Knowledge in Java EE , Spring Framework
 - 💞️ I’m looking to collaborate on  Software Development (c/Java), Electronics projects (Arduino ,Raspberry pi)
 - 📫 How to reach me ...
 
